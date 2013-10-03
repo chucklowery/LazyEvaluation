@@ -1,14 +1,3 @@
-/*
- * Copyright (C) 2013 Payment Alliance International. All Rights Reserved.
- * 
- * This software is the proprietary information of Payment Alliance International.
- * Use is subject to license terms.
- * 
- * Name: LazyChainTest.java 
- * Created: Oct 3, 2013 3:20:32 PM
- * Author: Chuck Lowery <chuck.lowery @ gopai.com>
- */
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -19,7 +8,7 @@ import org.junit.runner.JUnitCore;
 
 /**
  *
- * @author Chuck Lowery <chuck.lowery @ gopai.com>
+ * @author Chuck Lowery <chuck.lowery @ gmail.com>
  */
 public class LazyChainTest {
 

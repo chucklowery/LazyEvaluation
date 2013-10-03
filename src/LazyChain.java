@@ -1,20 +1,8 @@
-
 import java.util.Iterator;
-
-/*
- * Copyright (C) 2013 Payment Alliance International. All Rights Reserved.
- * 
- * This software is the proprietary information of Payment Alliance International.
- * Use is subject to license terms.
- * 
- * Name: LazyChain.java 
- * Created: Oct 3, 2013 3:18:34 PM
- * Author: Chuck Lowery <chuck.lowery @ gopai.com>
- */
 
 /**
  *
- * @author Chuck Lowery <chuck.lowery @ gopai.com>
+ * @author Chuck Lowery <chuck.lowery @ gmail.com>
  */
 public class LazyChain<Type> implements Iterable<Type> {
 
